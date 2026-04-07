@@ -53,6 +53,7 @@ Studying a Bachelor of CS & AI.
 ![Prowlarr](https://img.shields.io/badge/Prowlarr-FFA500?style=flat&logo=prowlarr&logoColor=white)
 ![qBittorrent](https://img.shields.io/badge/qBittorrent-2F67BA?style=flat&logo=qbittorrent&logoColor=white)
 ![SABnzbd](https://img.shields.io/badge/SABnzbd-EEAD00?style=flat&logo=sabnzbd&logoColor=black)
+![nzb360](https://img.shields.io/badge/nzb360-5C6BC0?style=flat&logoColor=white)
 
 **Cloud & Docs**&nbsp;&nbsp;
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white)
