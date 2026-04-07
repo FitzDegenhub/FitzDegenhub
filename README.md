@@ -12,6 +12,8 @@ Studying a Bachelor of CS & AI.
 ### What I'm into
 
 - **Agentic AI** — building with LLMs, autonomous workflows, tool-use systems
+- **Web3** — crypto, DeFi, onchain culture
+- **Gaming** — modding, Crimson Desert, always building around games
 - **Cybersecurity** — offensive and defensive, always learning
 - **Homelab** — self-hosting everything on a UGREEN DXP4800
 
