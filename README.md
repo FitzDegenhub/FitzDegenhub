@@ -19,7 +19,7 @@ Studying a Bachelor of CS & AI.
 
 ---
 
-### Currently building
+### Projects
 
 | Project | Description | Stars | Downloads |
 |---------|-------------|-------|-----------|
