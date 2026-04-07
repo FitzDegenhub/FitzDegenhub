@@ -43,12 +43,31 @@ Studying a Bachelor of CS & AI.
 
 ### Homelab
 
+**Media**&nbsp;&nbsp;
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white)
-![Immich](https://img.shields.io/badge/Immich-4250AF?style=flat&logo=immich&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
 ![Sonarr](https://img.shields.io/badge/Sonarr-2196F3?style=flat&logo=sonarr&logoColor=white)
 ![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=flat&logo=radarr&logoColor=black)
+![Bazarr](https://img.shields.io/badge/Bazarr-9B59B6?style=flat&logo=bazarr&logoColor=white)
+![Jellyseerr](https://img.shields.io/badge/Jellyseerr-B298F0?style=flat&logo=jellyseerr&logoColor=white)
+![Prowlarr](https://img.shields.io/badge/Prowlarr-FFA500?style=flat&logo=prowlarr&logoColor=white)
+![qBittorrent](https://img.shields.io/badge/qBittorrent-2F67BA?style=flat&logo=qbittorrent&logoColor=white)
+![SABnzbd](https://img.shields.io/badge/SABnzbd-EEAD00?style=flat&logo=sabnzbd&logoColor=black)
+
+**Cloud & Docs**&nbsp;&nbsp;
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white)
+![Immich](https://img.shields.io/badge/Immich-4250AF?style=flat&logo=immich&logoColor=white)
+![Paperless-ngx](https://img.shields.io/badge/Paperless--ngx-17541f?style=flat&logo=paperlessngx&logoColor=white)
+
+**Network & Security**&nbsp;&nbsp;
+![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat&logo=adguard&logoColor=white)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat&logo=bitwarden&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+
+**Infra**&nbsp;&nbsp;
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
+![Duplicati](https://img.shields.io/badge/Duplicati-2CD1F9?style=flat&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
