@@ -24,7 +24,7 @@ Studying a Bachelor of CS & AI.
 | Project | Description | Stars | Downloads |
 |---------|-------------|-------|-----------|
 | **[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** | Camera toolkit for Crimson Desert · C# / WPF | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/UltimateCameraMod?style=flat&label=) | ![Downloads](https://img.shields.io/github/downloads/FitzDegenhub/UltimateCameraMod/total?style=flat&label=) |
-| **[Reality Nodes](https://github.com/FitzDegenhub/reality_node_runners)** | Node runner onboarding site · Next.js / TypeScript | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/reality_node_runners?style=flat&label=) | [Live](https://reality-nodes.0xfitz.dev/) |
+| **[Reality Nodes](https://github.com/FitzDegenhub/reality_node_runners)** | Node runner onboarding site · Next.js / TypeScript | — | [Live](https://reality-nodes.0xfitz.dev/) |
 
 ---
 
@@ -43,7 +43,7 @@ Studying a Bachelor of CS & AI.
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
 
 ### Homelab
 
