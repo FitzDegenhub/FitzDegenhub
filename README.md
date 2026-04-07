@@ -60,6 +60,14 @@ Studying a Bachelor of CS & AI.
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535a0?style=flat&logo=ethers&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-363FF9?style=flat&logo=alchemy&logoColor=white)
+![Infura](https://img.shields.io/badge/Infura-FF5833?style=flat&logo=infura&logoColor=white)
 
 ### Homelab
 
