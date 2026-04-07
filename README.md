@@ -40,7 +40,7 @@ Studying a Bachelor of CS & AI.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
-![Win11](https://img.shields.io/badge/Win11-0078D4?style=flat&logo=windows11&logoColor=white)
+![Win11](https://img.shields.io/badge/Win11-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Omarchy](https://img.shields.io/badge/Omarchy-1a1a2e?style=flat&logo=archlinux&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
