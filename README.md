@@ -24,7 +24,6 @@ Studying a Bachelor of CS & AI.
 | Project | Description | Stars | Downloads |
 |---------|-------------|-------|-----------|
 | **[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** | Camera toolkit for Crimson Desert · C# / WPF | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/UltimateCameraMod?style=flat&label=) | ![Downloads](https://img.shields.io/github/downloads/FitzDegenhub/UltimateCameraMod/total?style=flat&label=) |
-| **[Example Project](https://github.com/FitzDegenhub)** | Placeholder for your next project · Next.js / React | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/FitzDegenhub?style=flat&label=) | — |
 
 ---
 
