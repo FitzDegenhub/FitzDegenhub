@@ -76,8 +76,6 @@ Studying a Bachelor of CS & AI.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FitzDegenhub&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9)
-
 [![X](https://img.shields.io/badge/@0xFitz-000000?style=flat&logo=x&logoColor=white)](https://x.com/0xFitz)&nbsp;&nbsp;
 [![Nexus Mods](https://img.shields.io/badge/Nexus_Mods-DA8E35?style=flat&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/crimsondesert/mods/438)
 
