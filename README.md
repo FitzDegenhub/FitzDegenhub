@@ -44,6 +44,8 @@ Studying a Bachelor of CS & AI.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=flat&logo=openssh&logoColor=white)
+![LZ4](https://img.shields.io/badge/LZ4-2C2D72?style=flat&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=flat&logo=letsencrypt&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
