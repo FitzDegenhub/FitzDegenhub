@@ -21,11 +21,10 @@ Studying a Bachelor of CS & AI.
 
 ### Currently building
 
-**[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** | Camera toolkit for Crimson Desert | C# / WPF
-![Stars](https://img.shields.io/github/stars/FitzDegenhub/UltimateCameraMod?style=flat&label=stars) ![Downloads](https://img.shields.io/github/downloads/FitzDegenhub/UltimateCameraMod/total?style=flat&label=downloads) ![Forks](https://img.shields.io/github/forks/FitzDegenhub/UltimateCameraMod?style=flat&label=forks) ![Last Commit](https://img.shields.io/github/last-commit/FitzDegenhub/UltimateCameraMod?style=flat&label=last+commit)
-
-**[Example Project](https://github.com/FitzDegenhub)** | Placeholder for your next project | Next.js / React
-![Stars](https://img.shields.io/github/stars/FitzDegenhub/FitzDegenhub?style=flat&label=stars) ![Forks](https://img.shields.io/github/forks/FitzDegenhub/FitzDegenhub?style=flat&label=forks) ![Last Commit](https://img.shields.io/github/last-commit/FitzDegenhub/FitzDegenhub?style=flat&label=last+commit)
+| Project | Description | Stars | Downloads |
+|---------|-------------|-------|-----------|
+| **[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** | Camera toolkit for Crimson Desert · C# / WPF | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/UltimateCameraMod?style=flat&label=) | ![Downloads](https://img.shields.io/github/downloads/FitzDegenhub/UltimateCameraMod/total?style=flat&label=) |
+| **[Example Project](https://github.com/FitzDegenhub)** | Placeholder for your next project · Next.js / React | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/FitzDegenhub?style=flat&label=) | — |
 
 ---
 
