@@ -2,8 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=g'day+%F0%9F%91%8B;Australian+dev+based+in+Sweden;Building+things+that+didn't+exist+yet)
 
-Australian developer based in Sweden. Telecoms background, now deep in software and AI.
-Starting a Bachelor of CS & AI — autumn 2026.
+Australian vibe coder based in Sweden. Telecoms background, now deep in software and AI.
+Studying a Bachelor of CS & AI. 
 
 </div>
 
