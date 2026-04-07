@@ -14,7 +14,7 @@ Studying a Bachelor of CS & AI.
 - **Agentic AI** | building with LLMs, autonomous workflows, tool-use systems
 - **Web3** | crypto, DeFi, onchain culture
 - **Gaming** | modding, always building around games
-- **Cybersecurity** | offensive and defensive, always learning
+- **Cybersecurity** | offensive and defensive, planning to specialise through my CS degree
 - **Homelab** | self-hosting everything
 
 ---
