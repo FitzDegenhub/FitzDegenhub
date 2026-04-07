@@ -40,6 +40,7 @@ Studying a Bachelor of CS & AI.
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
 ![Win11](https://img.shields.io/badge/Win11-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Omarchy](https://img.shields.io/badge/Omarchy-1a1a2e?style=flat&logo=archlinux&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
