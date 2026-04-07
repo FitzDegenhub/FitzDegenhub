@@ -12,7 +12,7 @@ Studying a Bachelor of CS & AI.
 ### What I'm into
 
 - **Agentic AI** | building with LLMs, autonomous workflows, tool-use systems
-- **Web3** | grew a 30k crypto content audience, now focused on building
+- **Web3** | former content creator (30k), now just building
 - **Gaming** | modding, always building around games
 - **Cybersecurity** | offensive and defensive, planning to specialise through my CS degree
 - **Homelab** | self-hosting everything
