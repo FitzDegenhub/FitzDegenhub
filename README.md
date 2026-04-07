@@ -24,6 +24,7 @@ Studying a Bachelor of CS & AI.
 | Project | Description | Stars | Downloads |
 |---------|-------------|-------|-----------|
 | **[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** | Camera toolkit for Crimson Desert · C# / WPF | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/UltimateCameraMod?style=flat&label=) | ![Downloads](https://img.shields.io/github/downloads/FitzDegenhub/UltimateCameraMod/total?style=flat&label=) |
+| **[Reality Nodes](https://github.com/FitzDegenhub/reality_node_runners)** | Node runner onboarding site · Next.js / TypeScript | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/reality_node_runners?style=flat&label=) | [Live](https://reality-nodes.0xfitz.dev/) |
 
 ---
 
