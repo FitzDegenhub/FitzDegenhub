@@ -11,17 +11,17 @@ Studying a Bachelor of CS & AI.
 
 ### What I'm into
 
-- **Agentic AI** — building with LLMs, autonomous workflows, tool-use systems
-- **Web3** — crypto, DeFi, onchain culture
-- **Gaming** — modding, Crimson Desert, always building around games
-- **Cybersecurity** — offensive and defensive, always learning
-- **Homelab** — self-hosting everything on a UGREEN DXP4800
+- **Agentic AI** | building with LLMs, autonomous workflows, tool-use systems
+- **Web3** | crypto, DeFi, onchain culture
+- **Gaming** | modding, Crimson Desert, always building around games
+- **Cybersecurity** | offensive and defensive, always learning
+- **Homelab** | self-hosting everything on a UGREEN DXP4800
 
 ---
 
 ### Currently building
 
-**[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** — Camera toolkit for Crimson Desert · C# / WPF
+**[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** | Camera toolkit for Crimson Desert | C# / WPF
 
 ![Stars](https://img.shields.io/github/stars/FitzDegenhub/UltimateCameraMod?style=flat&label=stars)
 ![Downloads](https://img.shields.io/github/downloads/FitzDegenhub/UltimateCameraMod/total?style=flat&label=downloads)
