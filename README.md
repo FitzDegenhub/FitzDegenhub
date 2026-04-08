@@ -23,8 +23,9 @@ Studying a Bachelor of CS & AI.
 
 | Project | Description | Stars | Downloads |
 |---------|-------------|-------|-----------|
-| **[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** | Camera toolkit for Crimson Desert · C# / WPF | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/UltimateCameraMod?style=flat&label=) | ![Downloads](https://img.shields.io/github/downloads/FitzDegenhub/UltimateCameraMod/total?style=flat&label=) |
+| **[Fitz-Homelab](https://github.com/FitzDegenhub/Fitz-Homelab)** | Self-hosted homelab · Docker / Compose | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/Fitz-Homelab?style=flat&label=) | — |
 | **[Reality Nodes](https://github.com/FitzDegenhub/reality_node_runners)** | Node runner onboarding site · Next.js / TypeScript | — | [Live](https://reality-nodes.0xfitz.dev/) |
+| **[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** | Camera toolkit for Crimson Desert · C# / WPF | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/UltimateCameraMod?style=flat&label=) | ![GitHub](https://img.shields.io/github/downloads/FitzDegenhub/UltimateCameraMod/total?style=flat&label=&logo=github) ![Nexus](https://img.shields.io/nexus/dt/crimsondesert/438?style=flat&label=&logo=nexusmods&color=DA8E35) |
 
 ---
 
@@ -81,6 +82,9 @@ Studying a Bachelor of CS & AI.
 ![qBittorrent](https://img.shields.io/badge/qBittorrent-2F67BA?style=flat&logo=qbittorrent&logoColor=white)
 ![SABnzbd](https://img.shields.io/badge/SABnzbd-EEAD00?style=flat&logo=sabnzbd&logoColor=black)
 ![nzb360](https://img.shields.io/badge/nzb360-5C6BC0?style=flat&logoColor=white)
+![Recyclarr](https://img.shields.io/badge/Recyclarr-47C5FB?style=flat&logoColor=white)
+![FlareSolverr](https://img.shields.io/badge/FlareSolverr-E34F26?style=flat&logoColor=white)
+![Requestrr](https://img.shields.io/badge/Requestrr-5865F2?style=flat&logo=discord&logoColor=white)
 
 **Cloud & Docs**&nbsp;&nbsp;
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white)
@@ -90,6 +94,7 @@ Studying a Bachelor of CS & AI.
 **Network & Security**&nbsp;&nbsp;
 ![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat&logo=adguard&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat&logo=bitwarden&logoColor=white)
 
 **Infra**&nbsp;&nbsp;
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
@@ -97,6 +102,7 @@ Studying a Bachelor of CS & AI.
 ![Duplicati](https://img.shields.io/badge/Duplicati-2CD1F9?style=flat&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Valkey](https://img.shields.io/badge/Valkey-FF6600?style=flat&logoColor=white)
 
 ---
 
