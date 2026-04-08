@@ -24,8 +24,8 @@ Studying a Bachelor of CS & AI.
 | Project | Description | Stars | Downloads |
 |---------|-------------|-------|-----------|
 | **[Fitz-Homelab](https://github.com/FitzDegenhub/Fitz-Homelab)** | Self-hosted homelab · Docker / Compose | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/Fitz-Homelab?style=flat&label=) | — |
-| **[Reality Nodes](https://github.com/FitzDegenhub/reality_node_runners)** | Node runner onboarding site · Next.js / TypeScript | — | [Live](https://reality-nodes.0xfitz.dev/) |
-| **[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** | Camera toolkit for Crimson Desert · C# / WPF | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/UltimateCameraMod?style=flat&label=) | ![GitHub](https://img.shields.io/github/downloads/FitzDegenhub/UltimateCameraMod/total?style=flat&label=&logo=github) ![Nexus](https://img.shields.io/nexus/dt/crimsondesert/438?style=flat&label=&logo=nexusmods&color=DA8E35) |
+| **[Reality Nodes](https://github.com/FitzDegenhub/reality_node_runners)** | Node runner onboarding site · Next.js / TypeScript | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/reality_node_runners?style=flat&label=) | [Live](https://reality-nodes.0xfitz.dev/) |
+| **[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** | Camera toolkit for Crimson Desert · C# / WPF | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/UltimateCameraMod?style=flat&label=) | ![GitHub](https://img.shields.io/github/downloads/FitzDegenhub/UltimateCameraMod/total?style=flat&label=&logo=github) ![Nexus](https://img.shields.io/nexus/dt/crimsondesert/438?server=https%3A%2F%2Fwww.nexusmods.com&style=flat&label=&logo=nexusmods&color=DA8E35) |
 
 ---
 
