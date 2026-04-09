@@ -15,3 +15,34 @@ jobs:
           mod_id: 438
           gist_id: 8252b6a9bc70cedffb883127f64c8ee6
           gist_token: ${{ secrets.GIST_TOKEN }}
+
+      # Demo badges for README logo options preview
+      - uses: FitzDegenhub/nexus-mod-badges@master
+        with:
+          nexus_api_key: ${{ secrets.NEXUS_API_KEY }}
+          game: crimsondesert
+          mod_id: 438
+          gist_id: 8252b6a9bc70cedffb883127f64c8ee6
+          gist_token: ${{ secrets.GIST_TOKEN }}
+          logo: icon
+          filename: demo-icon.json
+
+      - uses: FitzDegenhub/nexus-mod-badges@master
+        with:
+          nexus_api_key: ${{ secrets.NEXUS_API_KEY }}
+          game: crimsondesert
+          mod_id: 438
+          gist_id: 8252b6a9bc70cedffb883127f64c8ee6
+          gist_token: ${{ secrets.GIST_TOKEN }}
+          logo: text
+          filename: demo-text.json
+
+      - uses: FitzDegenhub/nexus-mod-badges@master
+        with:
+          nexus_api_key: ${{ secrets.NEXUS_API_KEY }}
+          game: crimsondesert
+          mod_id: 438
+          gist_id: 8252b6a9bc70cedffb883127f64c8ee6
+          gist_token: ${{ secrets.GIST_TOKEN }}
+          logo: none
+          filename: demo-none.json
