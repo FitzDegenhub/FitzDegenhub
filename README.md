@@ -23,10 +23,10 @@ Studying a Bachelor of CS & AI.
 
 | Project | Description | Stars | Downloads |
 |---------|-------------|-------|-----------|
-| **[Nexus Mod Badges](https://github.com/FitzDegenhub/nexus-mod-badges)** | GitHub Action for live Nexus Mods stats badges | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/nexus-mod-badges?style=flat&label=) | — |
 | **[Fitz-Homelab](https://github.com/FitzDegenhub/Fitz-Homelab)** | Self-hosted homelab · Docker / Compose | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/Fitz-Homelab?style=flat&label=) | — |
 | **[Reality Nodes](https://github.com/FitzDegenhub/reality_node_runners)** | Node runner onboarding site · Next.js / TypeScript | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/reality_node_runners?style=flat&label=) | [Live](https://reality-nodes.0xfitz.dev/) |
 | **[Ultimate Camera Mod](https://github.com/FitzDegenhub/UltimateCameraMod)** | Camera toolkit for Crimson Desert · C# / WPF | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/UltimateCameraMod?style=flat&label=) | ![GitHub](https://img.shields.io/github/downloads/FitzDegenhub/UltimateCameraMod/total?style=flat&label=&logo=github) ![Nexus](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/FitzDegenhub/8252b6a9bc70cedffb883127f64c8ee6/raw/crimsondesert-438-downloads.json&style=flat&label=) |
+| **[Nexus Mod Badges](https://github.com/FitzDegenhub/nexus-mod-badges)** | GitHub Action for live Nexus Mods stats badges | ![Stars](https://img.shields.io/github/stars/FitzDegenhub/nexus-mod-badges?style=flat&label=) | — |
 
 ---
 
